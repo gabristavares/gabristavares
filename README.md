@@ -29,7 +29,7 @@
 ---
 
 ## 🔗 Projeto
-👉 [Acesse o repositório](https://github.com/gabristavares/Fitlife.git)
+👉 [Acesse o repositório(fitlife)](https://github.com/gabristavares/Fitlife.git)
 
 ---
 
