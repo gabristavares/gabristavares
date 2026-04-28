@@ -8,10 +8,10 @@
 ---
 
 ## 🛠️ Tecnologias
-- Java
-- HTML
-- CSS
-- Git e GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github" />
+</p>
 
 ---
 
@@ -26,11 +26,7 @@
 - 📊 Sistema de IMC
 - 🧮 Calculadora em Java
 - 🌐 FitLife (HTML e CSS)
----
-
-## 🔗 Projeto
-👉 [Acesse o repositório Fitlife](https://github.com/gabristavares/Fitlife.git)
-
+    [Acesse o repositório Fitlife](https://github.com/gabristavares/Fitlife.git)
 ---
 
 ## 📫 Contato
