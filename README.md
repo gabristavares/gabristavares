@@ -30,4 +30,5 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: www.linkedin.com/in/gabrielst1005
+- 💼 LinkedIn: www.linkedin.com/in/gabrielst1005
+- 📧 Email: gabriel.stavares05@gmail.com
