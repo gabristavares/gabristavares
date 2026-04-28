@@ -5,6 +5,7 @@
 🚀 Desenvolvendo projetos práticos para evoluir  
 🎯 Buscando estágio na área de tecnologia  
 
+
 ---
 
 ## 🛠️ Tecnologias
