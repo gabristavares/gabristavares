@@ -26,6 +26,10 @@
 - 📊 Sistema de IMC
 - 🧮 Calculadora em Java
 - 🌐 FitLife (HTML e CSS)
+---
+
+## 🔗 Projeto
+👉 [Acesse o repositório](https://github.com/gabristavares/Fitlife.git)
 
 ---
 
